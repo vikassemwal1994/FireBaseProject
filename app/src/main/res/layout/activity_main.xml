@@ -67,7 +67,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
                 android:layout_marginTop="16dp"
-                android:text="Add Items to Database"
+                android:text="Google sign in"
                 android:textStyle="bold"/>
 
         </LinearLayout>
